@@ -21,7 +21,7 @@ def generate_feed(config):
         articles = config["scraper"]()
     except Exception as e:
         print(f"Error scraping {config['title']}: {e}")
-        return
+        articles = []
 
     fg = FeedGenerator()
     fg.id(config["link"])
@@ -38,9 +38,10 @@ def generate_feed(config):
         fe.description(art.get("description", ""))
         fe.pubDate(datetime.now(timezone.utc))
 
+    # Создаем папку feeds/ если ее нет
     os.makedirs(os.path.dirname(config["filename"]), exist_ok=True)
     fg.rss_file(config["filename"], pretty=True)
-    print(f"Saved to {config['filename']} ({len(articles)} items)")
+    print(f"--> Successfully saved: {config['filename']} (articles: {len(articles)})")
 
 def main():
     for config in FEEDS_CONFIG:
