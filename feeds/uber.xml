@@ -7,146 +7,146 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 19:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 22:52:52 +0000</lastBuildDate>
     <item>
       <title>Zero-Sum by Design: 10 Years of Uber’s Payments Platform</title>
       <link>https://www.uber.com/us/en/blog/ubers-payments-platform/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/ubers-payments-platform/"&gt;Zero-Sum by Design: 10 Years of Uber’s Payments Platform&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/ubers-payments-platform/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Running Cost-Efficient Export Workloads at Uber</title>
       <link>https://www.uber.com/us/en/blog/running-cost-efficient-export/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/running-cost-efficient-export/"&gt;Running Cost-Efficient Export Workloads at Uber&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/running-cost-efficient-export/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Running a Software Factory Efficiently at Uber Scale</title>
       <link>https://www.uber.com/us/en/blog/efficient-software-factory/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/efficient-software-factory/"&gt;Running a Software Factory Efficiently at Uber Scale&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/efficient-software-factory/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>From Chaos to Control: Addressing Shard Distribution Challenges in M3DB with Subclusters</title>
       <link>https://www.uber.com/us/en/blog/from-chaos-to-control/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/from-chaos-to-control/"&gt;From Chaos to Control: Addressing Shard Distribution Challenges in M3DB with Subclusters&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/from-chaos-to-control/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>From One Horizontal Scaling Controller to Many: Evolving Uber's Compute Platform</title>
       <link>https://www.uber.com/us/en/blog/evolving-ubers-compute-platform/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/evolving-ubers-compute-platform/"&gt;From One Horizontal Scaling Controller to Many: Evolving Uber's Compute Platform&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/evolving-ubers-compute-platform/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Halving the Time: How Uber Eats Rebuilt Its Search Pipeline</title>
       <link>https://www.uber.com/us/en/blog/uber-eats-search-pipeline/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/uber-eats-search-pipeline/"&gt;Halving the Time: How Uber Eats Rebuilt Its Search Pipeline&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/uber-eats-search-pipeline/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Large-Scale Automated Dependency Analysis Across Uber's Service Mesh</title>
       <link>https://www.uber.com/us/en/blog/automated-dependency-analysis/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/automated-dependency-analysis/"&gt;Large-Scale Automated Dependency Analysis Across Uber's Service Mesh&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/automated-dependency-analysis/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>How Uber Protects Against Retry Storms</title>
       <link>https://www.uber.com/us/en/blog/protecting-against-retry-storms/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/"&gt;How Uber Protects Against Retry Storms&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Taming the ML Firehose: Scaling Feature Consistency</title>
       <link>https://www.uber.com/us/en/blog/taming-ml-firehose/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/taming-ml-firehose/"&gt;Taming the ML Firehose: Scaling Feature Consistency&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/taming-ml-firehose/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Designing MCP Gateway Uber's MCP Management Platform</title>
       <link>https://www.uber.com/us/en/blog/designing-mcp-gateway/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/designing-mcp-gateway/"&gt;Designing MCP Gateway Uber's MCP Management Platform&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/designing-mcp-gateway/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Doing the right thing for cities and communities globally</title>
       <link>https://www.uber.com/us/en/blog/community-support/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/community-support/"&gt;Doing the right thing for cities and communities globally&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/community-support/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Expanding the reach of public transportation</title>
       <link>https://www.uber.com/us/en/blog/transit/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/transit/"&gt;Expanding the reach of public transportation&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/transit/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Enhancing campus transportation</title>
       <link>https://www.uber.com/us/en/blog/higher-education/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/higher-education/"&gt;Enhancing campus transportation&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/higher-education/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Moving care forward together with medical providers</title>
       <link>https://www.uber.com/us/en/blog/health/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/health/"&gt;Moving care forward together with medical providers&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/health/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Transforming the way companies move and feed their people</title>
       <link>https://www.uber.com/us/en/blog/business/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/business/"&gt;Transforming the way companies move and feed their people&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/business/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Putting stores within reach of a world of customers</title>
       <link>https://www.uber.com/us/en/blog/merchants/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/merchants/"&gt;Putting stores within reach of a world of customers&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/merchants/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Ordering meals for delivery is just the beginning with Uber Eats</title>
       <link>https://www.uber.com/us/en/blog/eat/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/eat/"&gt;Ordering meals for delivery is just the beginning with Uber Eats&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/eat/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Experiences and information for people on the move</title>
       <link>https://www.uber.com/us/en/blog/ride/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/ride/"&gt;Experiences and information for people on the move&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/ride/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Resources for driving and delivering with Uber</title>
       <link>https://www.uber.com/us/en/blog/earn/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/earn/"&gt;Resources for driving and delivering with Uber&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/earn/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
     <item>
       <title>Learn more about advertising on Uber. Reach consumers as they go anywhere and get anything.</title>
       <link>https://www.uber.com/us/en/blog/advertising/</link>
       <description>Read article: &lt;a href="https://www.uber.com/us/en/blog/advertising/"&gt;Learn more about advertising on Uber. Reach consumers as they go anywhere and get anything.&lt;/a&gt;</description>
       <guid isPermaLink="false">https://www.uber.com/us/en/blog/advertising/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:18:46 +0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 22:52:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
