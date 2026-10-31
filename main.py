@@ -1,4 +1,5 @@
 import os
+import re
 from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
 
@@ -15,6 +16,13 @@ FEEDS_CONFIG = [
     },
 ]
 
+def sanitize_xml(text):
+    """Удаляет недопустимые для XML управляющие символы."""
+    if not text:
+        return ""
+    # Разрешены только символы: 0x9, 0xA, 0xD и диапазон от 0x20 до 0xD7FF
+    return re.sub(r'[^\x09\x0A\x0D\x20-\uD7FF\uE000-\uFFFD]', '', str(text))
+
 def generate_feed(config):
     print(f"--> Scraping {config['title']}...")
     try:
@@ -25,20 +33,19 @@ def generate_feed(config):
 
     fg = FeedGenerator()
     fg.id(config["link"])
-    fg.title(config["title"])
+    fg.title(sanitize_xml(config["title"]))
     fg.link(href=config["link"], rel="alternate")
-    fg.description(config["desc"])
+    fg.description(sanitize_xml(config["desc"]))
     fg.language("en")
 
     for art in articles:
         fe = fg.add_entry()
         fe.id(art["url"])
-        fe.title(art["title"])
+        fe.title(sanitize_xml(art["title"]))
         fe.link(href=art["url"])
-        fe.description(art.get("description", ""))
+        fe.description(sanitize_xml(art.get("description", "")))
         fe.pubDate(datetime.now(timezone.utc))
 
-    # Создаем папку feeds/ если ее нет
     os.makedirs(os.path.dirname(config["filename"]), exist_ok=True)
     fg.rss_file(config["filename"], pretty=True)
     print(f"--> Successfully saved: {config['filename']} (articles: {len(articles)})")
